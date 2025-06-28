@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Favorite Videos",
+  "version": "1.0",
+  "description": "Save and view your favorite videos.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": []
+}
